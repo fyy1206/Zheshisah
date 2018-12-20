@@ -1,0 +1,19 @@
+.under {
+  position: fixed;
+  text-align: center;
+  bottom: 30rpx;
+  left: 0;
+  right: 0;
+}
+.middle {
+  position: fixed;
+  text-align: center;
+  bottom: 120rpx;
+  left: 0;
+  right: 0;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}

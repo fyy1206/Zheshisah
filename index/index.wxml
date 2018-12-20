@@ -1,0 +1,6 @@
+<button style="margin:30rpx;" bindtap="chooseimage">获取图片</button>
+<image src="{{tempFilePaths }}" mode="aspecFill" style="width: 100%; height: 450rpx"/>
+<text class="center">{{name}}</text>
+<text class="center">{{name1}}</text>
+<button class="under" bindtap="search">动物</button>
+<button class="middle" bindtap="search1">植物</button>
